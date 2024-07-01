@@ -1,4 +1,4 @@
-package com.springboot.joblisting;
+package com.springboot.joblisting.respository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
